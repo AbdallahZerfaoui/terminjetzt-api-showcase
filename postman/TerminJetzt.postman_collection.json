@@ -1,0 +1,9 @@
+{
+  "info": { "name": "TerminJetzt", "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json" },
+  "item": [
+    {
+      "name": "Latest Appointments",
+      "request": { "method": "GET", "url": { "raw": "https://api.terminjetzt.com/appointments/latest" } }
+    }
+  ]
+}
