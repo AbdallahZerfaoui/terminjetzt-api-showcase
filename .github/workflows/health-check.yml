@@ -1,0 +1,14 @@
+name: health-check
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call /status
+        run: |
+          curl -f https://api.terminjetzt.com/status | jq .
