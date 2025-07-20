@@ -1,0 +1,6 @@
+{
+  "name": "terminjetzt-client-js",
+  "version": "1.0.0",
+  "main": "client.js",
+  "type": "module"
+}
