@@ -29,3 +29,9 @@ Base URL: `https://api.terminjetzt.com`
 ### cURL
 ```bash
 curl https://api.terminjetzt.com/appointments/latest | jq
+```
+
+## 🔍 Live Docs
+
+Swagger UI → https://api.terminjetzt.com/docs  
+ReDoc → https://api.terminjetzt.com/redoc
