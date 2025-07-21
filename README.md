@@ -7,6 +7,12 @@ A **read-only REST API** that exposes real-time immigration-office appointment d
 This repository contains **client examples, infrastructure as code, and documentation**—all you need to consume or replicate the service.
 
 ---
+## 🔍 Live Docs
+
+Swagger UI → https://api.terminjetzt.com/docs  
+ReDoc → https://api.terminjetzt.com/redoc
+
+---
 
 ## 🔍 Live Endpoints
 | Endpoint | Description |
@@ -31,7 +37,3 @@ Base URL: `https://api.terminjetzt.com`
 curl https://api.terminjetzt.com/ | jq
 ```
 
-## 🔍 Live Docs
-
-Swagger UI → https://api.terminjetzt.com/docs  
-ReDoc → https://api.terminjetzt.com/redoc
