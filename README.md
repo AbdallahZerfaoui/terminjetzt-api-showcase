@@ -37,3 +37,7 @@ Base URL: `https://api.terminjetzt.com`
 curl https://api.terminjetzt.com/ | jq
 ```
 
+## 🚀  Try it live
+Scan the code below or tap.  
+
+[![Join on Telegram](https://imgur.com/lqLlpdj.png)](https://t.me/TerminJetzt_Heilbronn_OpenSlots)
