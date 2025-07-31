@@ -38,6 +38,7 @@ curl https://api.terminjetzt.com/ | jq
 ```
 
 ## 🚀  Try it live
-Scan the code below or tap.  
+Real-time appointments appear first on our Telegram channel and are mirrored second by this read-only API.  
+Scan or tap below to join the channel and watch the slots roll in live:
 
-[![Join on Telegram](https://imgur.com/lqLlpdj.png)](https://t.me/TerminJetzt_Heilbronn_OpenSlots)
+[![Join on Telegram](https://imgur.com/Hk318ZK.png)](https://t.me/TerminJetzt_Heilbronn_OpenSlots)
